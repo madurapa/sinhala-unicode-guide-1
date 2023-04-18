@@ -1,0 +1,17 @@
+/vendor
+/node_modules
+npm-debug.log
+yarn-error.log
+nbproject/*
+*.rej
+*.orig
+*.patch
+*.key
+*.log
+/public/bower_components
+.idea/
+.vscode
+.scannerwork/
+.phpunit.result.cache
+sonar-project.properties
+
